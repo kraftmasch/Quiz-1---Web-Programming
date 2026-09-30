@@ -1,6 +1,6 @@
 # Quiz 1 EF234301 Web Programming (D) - Personal Website
 
-A static personal website built using HTML, CSS, and JavaScript as part of the Web Programming course assignment.
+A static personal website built using HTML, CSS, and JavaScript as part of the Web Programming course 1st Quiz.
 
 <div align="center">
 
@@ -11,10 +11,10 @@ A static personal website built using HTML, CSS, and JavaScript as part of the W
 
 </div>
 
-## 📌 Project Overview
+## Project Overview
 This project showcases a multi-page personal web application covering various sections, including personal information, hometown details, local culinary recommendations, and popular tourist destinations.
 
-## 🗂️ Routing Structure
+## Routing Structure
 
 | Route / URL | Source File | Description |
 |---|---|---|
@@ -24,6 +24,6 @@ This project showcases a multi-page personal web application covering various se
 | `/quiz1/food` | `quiz1/food/index.html` | Culinary & Local Food Highlights |
 | `/quiz1/tourist` | `quiz1/tourist/index.html` | Local Tourist Attractions |
 
-## 🚀 Live Demo & Deployment
+## Live Demo & Deployment
 * **Live Demo:** [https://kraftmasch.vercel.app/](https://kraftmasch.vercel.app/)
 * **Deployment:** To deploy this project, upload the repository contents (specifically the `quiz1` directory at the root) to **Netlify**, **Vercel**, or **GitHub Pages**.
